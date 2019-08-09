@@ -16,6 +16,8 @@ public class Cmfz888ApplicationTests {
         //sout
         System.out.println("===nnn====");
         System.out.println("====zzz===");
+        System.out.println("====666===");
+
     }
 
 }
